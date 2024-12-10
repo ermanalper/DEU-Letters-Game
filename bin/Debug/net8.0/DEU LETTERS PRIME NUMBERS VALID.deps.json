@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DEU LETTERS PRIME NUMBERS VALID/1.0.0": {
+        "runtime": {
+          "DEU LETTERS PRIME NUMBERS VALID.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DEU LETTERS PRIME NUMBERS VALID/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

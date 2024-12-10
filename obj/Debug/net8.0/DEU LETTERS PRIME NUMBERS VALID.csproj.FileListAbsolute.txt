@@ -1,0 +1,42 @@
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\DEU LETTERS PRIME NUMBERS VALID\DEU LETTERS PRIME NUMBERS VALID\bin\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.exe
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\DEU LETTERS PRIME NUMBERS VALID\DEU LETTERS PRIME NUMBERS VALID\bin\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\DEU LETTERS PRIME NUMBERS VALID\DEU LETTERS PRIME NUMBERS VALID\bin\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\DEU LETTERS PRIME NUMBERS VALID\DEU LETTERS PRIME NUMBERS VALID\bin\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.dll
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\DEU LETTERS PRIME NUMBERS VALID\DEU LETTERS PRIME NUMBERS VALID\bin\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\DEU LETTERS PRIME NUMBERS VALID\DEU LETTERS PRIME NUMBERS VALID\obj\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\DEU LETTERS PRIME NUMBERS VALID\DEU LETTERS PRIME NUMBERS VALID\obj\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\DEU LETTERS PRIME NUMBERS VALID\DEU LETTERS PRIME NUMBERS VALID\obj\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\DEU LETTERS PRIME NUMBERS VALID\DEU LETTERS PRIME NUMBERS VALID\obj\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\DEU LETTERS PRIME NUMBERS VALID\DEU LETTERS PRIME NUMBERS VALID\obj\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.dll
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\DEU LETTERS PRIME NUMBERS VALID\DEU LETTERS PRIME NUMBERS VALID\obj\Debug\net8.0\refint\DEU LETTERS PRIME NUMBERS VALID.dll
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\DEU LETTERS PRIME NUMBERS VALID\DEU LETTERS PRIME NUMBERS VALID\obj\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\DEU LETTERS PRIME NUMBERS VALID\DEU LETTERS PRIME NUMBERS VALID\obj\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\DEU LETTERS PRIME NUMBERS VALID\DEU LETTERS PRIME NUMBERS VALID\obj\Debug\net8.0\ref\DEU LETTERS PRIME NUMBERS VALID.dll
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\DEU Letters Game v2 (PRIME NUMBERS)\DEU LETTERS PRIME NUMBERS VALID\bin\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.exe
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\DEU Letters Game v2 (PRIME NUMBERS)\DEU LETTERS PRIME NUMBERS VALID\bin\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\DEU Letters Game v2 (PRIME NUMBERS)\DEU LETTERS PRIME NUMBERS VALID\bin\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\DEU Letters Game v2 (PRIME NUMBERS)\DEU LETTERS PRIME NUMBERS VALID\bin\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.dll
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\DEU Letters Game v2 (PRIME NUMBERS)\DEU LETTERS PRIME NUMBERS VALID\bin\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\DEU Letters Game v2 (PRIME NUMBERS)\DEU LETTERS PRIME NUMBERS VALID\obj\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\DEU Letters Game v2 (PRIME NUMBERS)\DEU LETTERS PRIME NUMBERS VALID\obj\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\DEU Letters Game v2 (PRIME NUMBERS)\DEU LETTERS PRIME NUMBERS VALID\obj\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\DEU Letters Game v2 (PRIME NUMBERS)\DEU LETTERS PRIME NUMBERS VALID\obj\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\DEU Letters Game v2 (PRIME NUMBERS)\DEU LETTERS PRIME NUMBERS VALID\obj\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.dll
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\DEU Letters Game v2 (PRIME NUMBERS)\DEU LETTERS PRIME NUMBERS VALID\obj\Debug\net8.0\refint\DEU LETTERS PRIME NUMBERS VALID.dll
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\DEU Letters Game v2 (PRIME NUMBERS)\DEU LETTERS PRIME NUMBERS VALID\obj\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\DEU Letters Game v2 (PRIME NUMBERS)\DEU LETTERS PRIME NUMBERS VALID\obj\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\DEU Letters Game v2 (PRIME NUMBERS)\DEU LETTERS PRIME NUMBERS VALID\obj\Debug\net8.0\ref\DEU LETTERS PRIME NUMBERS VALID.dll
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\deulettersgameprimenumbers\DEU LETTERS PRIME NUMBERS VALID\bin\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.exe
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\deulettersgameprimenumbers\DEU LETTERS PRIME NUMBERS VALID\bin\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\deulettersgameprimenumbers\DEU LETTERS PRIME NUMBERS VALID\bin\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\deulettersgameprimenumbers\DEU LETTERS PRIME NUMBERS VALID\bin\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.dll
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\deulettersgameprimenumbers\DEU LETTERS PRIME NUMBERS VALID\bin\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\deulettersgameprimenumbers\DEU LETTERS PRIME NUMBERS VALID\obj\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\deulettersgameprimenumbers\DEU LETTERS PRIME NUMBERS VALID\obj\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\deulettersgameprimenumbers\DEU LETTERS PRIME NUMBERS VALID\obj\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\deulettersgameprimenumbers\DEU LETTERS PRIME NUMBERS VALID\obj\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\deulettersgameprimenumbers\DEU LETTERS PRIME NUMBERS VALID\obj\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.dll
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\deulettersgameprimenumbers\DEU LETTERS PRIME NUMBERS VALID\obj\Debug\net8.0\refint\DEU LETTERS PRIME NUMBERS VALID.dll
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\deulettersgameprimenumbers\DEU LETTERS PRIME NUMBERS VALID\obj\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\deulettersgameprimenumbers\DEU LETTERS PRIME NUMBERS VALID\obj\Debug\net8.0\DEU LETTERS PRIME NUMBERS VALID.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Desktop\Projects\C#\DEU Letters Game\deulettersgameprimenumbers\DEU LETTERS PRIME NUMBERS VALID\obj\Debug\net8.0\ref\DEU LETTERS PRIME NUMBERS VALID.dll

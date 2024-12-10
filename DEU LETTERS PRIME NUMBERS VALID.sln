@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DEU LETTERS PRIME NUMBERS VALID", "DEU LETTERS PRIME NUMBERS VALID.csproj", "{01A5BC52-717D-41FE-B2D3-6F88FFC003AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01A5BC52-717D-41FE-B2D3-6F88FFC003AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01A5BC52-717D-41FE-B2D3-6F88FFC003AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01A5BC52-717D-41FE-B2D3-6F88FFC003AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01A5BC52-717D-41FE-B2D3-6F88FFC003AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC095170-8873-4CC7-8296-5F827744AED3}
+	EndGlobalSection
+EndGlobal
